@@ -5,6 +5,9 @@ class StaticPagesController < ApplicationController
   def help
   end
 
-  def something
+  def about
+  end
+  
+  def locateus
   end
 end
